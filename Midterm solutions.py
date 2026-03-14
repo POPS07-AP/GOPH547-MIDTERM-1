@@ -1,11 +1,16 @@
 #GOPH 547 - Midterm Exam Solutions
 #Course: Gravity Theory I
 
+#* Important Note: I turned the second part of partII to part III in my solutions and
+part III to part IV.
+
 - Part I: Multiple Choice (answers only)
 - Part II: Vector Operations and Curvilinear Coordinates
 - Part III: Gravitational Flux and Equivalent Surface Density
 - Part IV: Theoretical Gravity / Rotating Frame
 """
+
+print('Important Note: I turned the second part of partII to part III in my solutions and part III to part IV.')
 
 import numpy as np
 from typing import Dict, Tuple
