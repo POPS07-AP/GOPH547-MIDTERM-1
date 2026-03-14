@@ -10,7 +10,7 @@ part III to part IV.
 - Part IV: Theoretical Gravity / Rotating Frame
 """
 
-print('Important Note: I turned the second part of partII to part III in my solutions and part III to part IV.')
+print('Important Note: I changed the second part of partII to part III in my solutions and part III to part IV.')
 
 import numpy as np
 from typing import Dict, Tuple
