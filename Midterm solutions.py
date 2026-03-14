@@ -1,7 +1,7 @@
 #GOPH 547 - Midterm Exam Solutions
 #Course: Gravity Theory I
 
-#* Important Note: I turned the second part of partII to part III in my solutions and
+#* Important Note: I changed the second part of partII to part III in my solutions and
 part III to part IV.
 
 - Part I: Multiple Choice (answers only)
